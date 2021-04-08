@@ -44,7 +44,7 @@
     "stripe": "^4.0.0",
     "subleveldown": "^1.0.6",
     "tcp-bind": "^1.1.1",
-    "through2": "^0.6.3",
+    "through2": "^4.0.2",
     "timeago": "^0.2.0",
     "xkcd-password": "^1.2.0",
     "xtend": "^4.0.0"

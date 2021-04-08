@@ -42,7 +42,7 @@
     "shasum": "^1.0.1",
     "stream-combiner2": "^1.0.2",
     "stripe": "^4.0.0",
-    "subleveldown": "^1.0.6",
+    "subleveldown": "^5.0.1",
     "tcp-bind": "^1.1.1",
     "through2": "^4.0.2",
     "timeago": "^0.2.0",

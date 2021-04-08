@@ -15,7 +15,7 @@
     "concat-stream": "^1.4.7",
     "content-addressable-blob-store": "^4.1.1",
     "cookie-auth": "^2.4.1",
-    "duplexer2": "0.0.2",
+    "duplexer2": "0.1.4",
     "ecstatic": "~0.5.8",
     "escape-html": "^1.0.3",
     "html-template": "^1.2.2",

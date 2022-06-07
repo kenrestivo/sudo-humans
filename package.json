@@ -8,7 +8,7 @@
   "dependencies": {
     "accountdown": "^4.1.0",
     "accountdown-basic": "^1.0.0",
-    "async": "^1.4.2",
+    "async": "^3.2.4",
     "body": "^4.5.0",
     "changes-feed": "^1.0.0",
     "changesdown": "^2.2.0",
